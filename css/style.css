@@ -1,0 +1,24 @@
+body{
+  padding: 0px auto;
+  margin: 0px auto;
+}
+
+.nav{
+  display: flex;
+  background-color: aquamarine;
+}
+
+.logo{
+  width: 200px;
+}
+
+.menu{
+  background-color: crimson;
+  font-size: 1.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu ul li{
+  list-style-type: none;
+  margin-left: 20px;
+}
